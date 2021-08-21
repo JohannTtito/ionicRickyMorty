@@ -25,3 +25,21 @@
 #container a {
   text-decoration: none;
 }
+
+
+.center{
+
+display: flex !important;
+height: 700px !important;
+justify-content: center !important;
+align-items: center !important;
+
+
+}
+.grid{
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  width:500px;
+  height: 250px !important;
+}
